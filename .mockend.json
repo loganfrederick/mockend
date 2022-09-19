@@ -1,6 +1,6 @@
 {
     "Report": {
-      "Score": {
+      "CreditScore": {
         "int": { "min": 0, "max": 800 }
       }
     }
