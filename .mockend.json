@@ -1,7 +1,7 @@
 {
     "Report": {
       "CreditScore": {
-        "int": { "min": 0, "max": 800 }
+        "int": { "min": 300, "max": 800 }
       }
     }
   }
