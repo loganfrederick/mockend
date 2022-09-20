@@ -1,8 +1,13 @@
 {
-    "Report": {
+    "CreditReport": {
       "CreditScore": {
         "int": { "min": 300, "max": 800 }
       }
-    }
-  }
+    },
+    "RiskModel": {
+        "RiskScore": {
+          "int": { "min": 200, "max": 800 }
+        }
+      }
+}
   
